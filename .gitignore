@@ -1,0 +1,17 @@
+__pycache__/
+.DS_Store
+.env
+.venv/
+.idea/
+*.pyc
+holdings.csv
+reports/
+wa/messages.jsonl
+wa/media/
+wa/analysis_input.txt
+wa/.wwebjs_auth/
+wa/.wwebjs_cache/
+wa/.last_analyzed
+wa/.pending_until
+wa/.unread.json
+wa/node_modules/
